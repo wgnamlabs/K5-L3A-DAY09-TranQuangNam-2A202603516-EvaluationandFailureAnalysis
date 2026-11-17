@@ -1,9 +1,9 @@
 {
-  "run_id": "E-slice_regression-20261117-845c",
+  "run_id": "E-slice_regression-20261117-9290",
   "shape": "slice_regression",
   "manifest": {
     "eval_set": "data/eval/eval_set_v2.jsonl",
-    "eval_set_sha": "845cdeff6a64",
+    "eval_set_sha": "9290d02cfbaf",
     "items": 28,
     "seeds": [
       11,

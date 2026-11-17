@@ -2,7 +2,7 @@
 
 Card này đi kèm mỗi báo cáo và được dùng lại ở Day 10.
 
-- **Run ID / eval set SHA:** Baseline `E-swarm-20261117-1352` · eval set SHA `1352a2078673` (v1) / `E-swarm-20261117-845c` · eval set SHA `845cdeff6a64` (v2)
+- **Run ID / eval set SHA:** Baseline `E-swarm-20261117-629e` · eval set SHA `629e317d41e1` (v1) / `E-swarm-20261117-9290` · eval set SHA `9290d02cfbaf` (v2)
 - **Phiên bản:** code (commit `starter/d09`) · eval set v1/v2 · metric_spec `1.0` / `2.0` · grader `lab9.graders.GRADERS` · seeds 11/22/33/44/55
 - **Eval set:** v1 (14 item × 5 seed) và v2 (28 item × 5 seed); nhãn: `data/eval/labels_v1.json` và `labels_v2.json` (tách riêng khỏi item)
 - **Metric & ngưỡng (v1):**
